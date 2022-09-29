@@ -199,20 +199,6 @@ public class MixMitMessung extends JPanel implements ActionListener{
 		}
 	}
 }
-/*
- * Aufgabe 1: An die Stelle Übung soll statt Übung eine/mehrere Komponente/n gestellt werden, die
- * Auswahl eines bestimmten Sliders ermöglicht und diese soll direkt angezeigt
- * werden: Ermöglichen an eine BESTIMMTE Stelle im Stapel zu springen
- * Bitte kein Google, kein How to Wunsch: JavaDoc
- */
-
-/*
- * Aufgabe 2  Ein Bereich mit 3 Reglern zwischen 0 und 255: und damit RGB Farben
- * erzeugen auf einer weiteren Karte im Kartenstapel / alternativ in einer
- * Registerkarte Vielleicht: Angepasste Schriftfarbe optional: Anzeige der Farbe
- * in eigenen Bereich.
- *  * 
- */
 
 
 
